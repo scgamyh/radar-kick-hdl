@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Oct 27 16:07:31 2023
+# Process ID: 127477
+# Current directory: /home/myh/Documents/antsdr/antsdr-fw_radar/hdl/projects/ant/ant.runs/synth_1
+# Command line: vivado -log system_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_top.tcl
+# Log file: /home/myh/Documents/antsdr/antsdr-fw_radar/hdl/projects/ant/ant.runs/synth_1/system_top.vds
+# Journal file: /home/myh/Documents/antsdr/antsdr-fw_radar/hdl/projects/ant/ant.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source system_top.tcl -notrace

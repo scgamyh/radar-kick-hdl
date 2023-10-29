@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Oct  7 15:40:31 2023
+# Process ID: 52206
+# Current directory: /home/myh/Documents/antsdr/antsdr-fw/hdl/library/axi_fan_control
+# Command line: vivado -mode batch -source axi_fan_control_ip.tcl
+# Log file: /home/myh/Documents/antsdr/antsdr-fw/hdl/library/axi_fan_control/vivado.log
+# Journal file: /home/myh/Documents/antsdr/antsdr-fw/hdl/library/axi_fan_control/vivado.jou
+#-----------------------------------------------------------
+source axi_fan_control_ip.tcl

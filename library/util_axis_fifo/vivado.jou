@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat May  6 10:54:52 2023
+# Process ID: 106440
+# Current directory: /home/myh/Documents/antsdr/antsdr-fw/hdl/library/util_axis_fifo
+# Command line: vivado -mode batch -source util_axis_fifo_ip.tcl
+# Log file: /home/myh/Documents/antsdr/antsdr-fw/hdl/library/util_axis_fifo/vivado.log
+# Journal file: /home/myh/Documents/antsdr/antsdr-fw/hdl/library/util_axis_fifo/vivado.jou
+#-----------------------------------------------------------
+source util_axis_fifo_ip.tcl
